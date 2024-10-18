@@ -18,10 +18,10 @@ h1 {
     margin-bottom: 20px;
 }
 h1 {
-    color: rgb(0, 220, 232);
+    color: rgb(255, 255, 255);
 }
 h1:hover {
-    color: rgb(0, 172, 46);
+    color: rgb(255, 255, 255);
 }
 
 
@@ -36,7 +36,7 @@ video {
 }
 .icon-eye, .icon-eye-blocked, .icon-previous, .icon-next, .icon-pause, .icon-play2 {
     font-size: 25px;
-    color: (0, 220, 232);
+    color: red;
 }
 .icon-eye:hover, .icon-eye-blocked:hover, .icon-previous:hover, .icon-next:hover, .icon-pause:hover, .icon-play2:hover {
     color: orange;
@@ -129,10 +129,10 @@ h1 {
     margin-bottom: 20px;
 }
 h1 {
-    color: rgb(0, 220, 232);
+    color: rgb(255, 255, 255);
 }
 h1:hover {
-    color: rgb(0, 172, 46);
+    color: rgb(255, 255, 255);
 }
 
 
