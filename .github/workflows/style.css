@@ -47,7 +47,7 @@ a {
 }
 #h1-title{
     font-size: 54px;
-    font-family: serif;
+    font: arial bold 15% bold cursive;
 }
 
 #h1-content{
